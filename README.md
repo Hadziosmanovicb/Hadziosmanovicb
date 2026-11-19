@@ -74,6 +74,14 @@ Working with RFSoC-based spectrum analysis, experimental signal validation, and 
 **Tools & frameworks**  
 ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
+### GitHub activity
+
+<div align="center">
+
+[![Benjamin's GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Hadziosmanovicb&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Hadziosmanovicb?tab=overview)
+
+</div>
+
 ### What I'm working on
 
 - Building and improving **[FupTjek](https://fuptjek.dk)**, with an emphasis on clarity, security, and maintainability.
