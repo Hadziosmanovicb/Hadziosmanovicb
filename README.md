@@ -17,7 +17,7 @@ I build practical software, explore intelligent systems, and enjoy turning techn
 
 I'm a Computer Engineering student at the **Technical University of Denmark (DTU)**, working across software, embedded systems, and digital signal processing.
 
-At **DTU Risø**, I work with **FPGA-based virtual instrumentation and RFSoC signal processing**, combining hardware experiments with Python-based analysis and debugging. Outside the lab, I build projects such as **FupTjek**, a Danish scam-awareness web app, and have worked on a **YOLOv8-based robotics project** through DTU.
+At **DTU Risø**, I work with **FPGA-based virtual instrumentation and RFSoC signal processing**, combining hardware experiments with Python-based analysis and debugging. Outside the lab, I build **FupTjek**, a Danish scam-awareness web app, and work on hands-on projects in **robotics, computer vision, and FPGA development**.
 
 I'm particularly interested in **software engineering, applied AI, cybersecurity, and embedded development**.
 
@@ -36,26 +36,6 @@ A Danish web application helping people recognize warning signs in suspicious me
 </td>
 <td width="50%" valign="top">
 
-**[YOLOv8 Robot Vision](https://github.com/s235070/62410-CDIO-Project)** · DTU CDIO team project
-
-A robotics project using YOLOv8 object detection, bringing computer vision into a practical hardware/software system.
-
-`Python` `YOLOv8` `Computer vision` `Robotics`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Tetris on ZYBO](https://github.com/Hadziosmanovicb/Tetris_ZYBO)**
-
-A hardware/software project exploring FPGA-based game implementation on a ZYBO development board.
-
-`VHDL` `FPGA` `Digital systems`
-
-</td>
-<td width="50%" valign="top">
-
 **DTU Risø — FPGA Virtual Instrumentation** · Internship
 
 Working with RFSoC-based spectrum analysis, experimental signal validation, and Python models for signal correction. Includes hands-on debugging against laboratory reference instruments.
@@ -63,6 +43,36 @@ Working with RFSoC-based spectrum analysis, experimental signal validation, and 
 `RFSoC` `FPGA` `Python` `Signal processing`
 
 </td>
+</tr>
+</table>
+
+#### GolfBot — Robotics & Computer Vision
+
+**[DTU CDIO team project](https://github.com/s235070/62410-CDIO-Project)**
+
+A physical robot prototype built during a DTU CDIO project, alongside work involving **YOLOv8 object detection** and robotics. The images below show the actual hardware prototype.
+
+`Python` `YOLOv8` `Computer vision` `Robotics` `Hardware/software integration`
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle"><img src="./assets/golfbot-front.png" alt="Front view of the physical GolfBot robot prototype" width="230" /></td>
+<td width="50%" align="center" valign="middle"><img src="./assets/golfbot-marker.png" alt="GolfBot robot with a black and white marker on its chassis" width="230" /></td>
+</tr>
+</table>
+
+#### Tetris — FPGA / ZYBO
+
+**[Tetris on ZYBO](https://github.com/Hadziosmanovicb/Tetris_ZYBO)**
+
+An FPGA-based Tetris implementation on a ZYBO development board, featuring a custom game display. The photos show the title screen and the game running on a monitor.
+
+`VHDL` `FPGA` `Digital systems`
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle"><img src="./assets/tetris-menu.png" alt="Tetris title screen shown on a monitor" width="310" /></td>
+<td width="60%" align="center" valign="middle"><img src="./assets/tetris-gameplay.png" alt="Tetris gameplay running on a monitor with the score and playing field" width="470" /></td>
 </tr>
 </table>
 
@@ -85,7 +95,7 @@ Working with RFSoC-based spectrum analysis, experimental signal validation, and 
 ### What I'm working on
 
 - Building and improving **[FupTjek](https://fuptjek.dk)**, with an emphasis on clarity, security, and maintainability.
-- Exploring **computer vision and robotics**, building on my [YOLOv8 CDIO project](https://github.com/s235070/62410-CDIO-Project).
+- Exploring **computer vision and robotics** through projects such as [GolfBot](https://github.com/s235070/62410-CDIO-Project).
 - Gaining hands-on experience in **RFSoC-based measurement and signal processing** at DTU Risø.
 
 ---
