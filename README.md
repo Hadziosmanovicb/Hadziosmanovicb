@@ -17,7 +17,7 @@ I build practical software, explore intelligent systems, and enjoy turning techn
 
 I'm a Computer Engineering student at the **Technical University of Denmark (DTU)**, working across software, embedded systems, and digital signal processing.
 
-At **DTU Risø**, I work with **FPGA-based virtual instrumentation and RFSoC signal processing**, combining hardware experiments with Python-based analysis and debugging. Outside the lab, I build projects such as **FupTjek**, a Danish scam-awareness web app, and **PrisMentor**, an early-stage product search backend.
+At **DTU Risø**, I work with **FPGA-based virtual instrumentation and RFSoC signal processing**, combining hardware experiments with Python-based analysis and debugging. Outside the lab, I build projects such as **FupTjek**, a Danish scam-awareness web app, and have worked on a **YOLOv8-based robotics project** through DTU.
 
 I'm particularly interested in **software engineering, applied AI, cybersecurity, and embedded development**.
 
@@ -36,11 +36,11 @@ A Danish web application helping people recognize warning signs in suspicious me
 </td>
 <td width="50%" valign="top">
 
-**[PrisMentor](https://github.com/Hadziosmanovicb/PrisMentor)** · In development
+**[YOLOv8 Robot Vision](https://github.com/s235070/62410-CDIO-Project)** · DTU CDIO team project
 
-An experimental product-search platform focused on matching shopping requirements with structured product information. Currently building the Python backend and exploring scalable data sources.
+A robotics project using YOLOv8 object detection, bringing computer vision into a practical hardware/software system.
 
-`Python` `FastAPI` `APIs` `Data matching`
+`Python` `YOLOv8` `Computer vision` `Robotics`
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Working with RFSoC-based spectrum analysis, experimental signal validation, and 
 ### What I'm working on
 
 - Building and improving **[FupTjek](https://fuptjek.dk)**, with an emphasis on clarity, security, and maintainability.
-- Developing **[PrisMentor](https://github.com/Hadziosmanovicb/PrisMentor)** and investigating reliable product-data integration.
+- Exploring **computer vision and robotics**, building on my [YOLOv8 CDIO project](https://github.com/s235070/62410-CDIO-Project).
 - Gaining hands-on experience in **RFSoC-based measurement and signal processing** at DTU Risø.
 
 ---
